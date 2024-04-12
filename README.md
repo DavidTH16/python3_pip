@@ -6,3 +6,11 @@ To execute the code you must follow the next instructions on the terminal
 cd game
 python3 main.py
 ```
+
+# App proyect
+```sh
+git clone
+cd app
+source env_app/bin/activate
+pip3 -r requirements.txt
+python3 main.py
